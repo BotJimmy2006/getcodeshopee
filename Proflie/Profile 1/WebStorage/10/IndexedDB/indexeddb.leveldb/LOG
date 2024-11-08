@@ -1,0 +1,7 @@
+2024/11/02-14:39:01.611 1d08 Reusing MANIFEST C:\Code\Code Shopee\Proflie\Profile 1\WebStorage\10\IndexedDB\indexeddb.leveldb/MANIFEST-000001
+2024/11/02-14:39:01.611 1d08 Recovering log #3
+2024/11/02-14:39:01.612 1d08 Reusing old log C:\Code\Code Shopee\Proflie\Profile 1\WebStorage\10\IndexedDB\indexeddb.leveldb/000003.log 
+2024/11/02-14:39:07.299 1be8 Level-0 table #5: started
+2024/11/02-14:39:07.303 1be8 Level-0 table #5: 18596 bytes OK
+2024/11/02-14:39:07.305 1be8 Delete type=0 #3
+2024/11/02-14:39:07.306 1be8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,27 @@
+2024/11/02-15:49:22.298 13e4 Reusing MANIFEST C:\Code\Code Shopee\Proflie\Profile 1\Local Storage\leveldb/MANIFEST-000001
+2024/11/02-15:49:22.343 13e4 Recovering log #27
+2024/11/02-15:49:22.347 13e4 Reusing old log C:\Code\Code Shopee\Proflie\Profile 1\Local Storage\leveldb/000027.log 
+2024/11/02-15:50:28.275 20ac Level-0 table #32: started
+2024/11/02-15:50:28.279 20ac Level-0 table #32: 27262 bytes OK
+2024/11/02-15:50:28.280 20ac Delete type=0 #27
+2024/11/02-15:51:28.272 13e4 Level-0 table #34: started
+2024/11/02-15:51:28.276 13e4 Level-0 table #34: 262304 bytes OK
+2024/11/02-15:51:28.277 13e4 Delete type=0 #31
+2024/11/02-15:55:44.981 20ac Level-0 table #36: started
+2024/11/02-15:55:44.985 20ac Level-0 table #36: 254598 bytes OK
+2024/11/02-15:55:44.986 20ac Delete type=0 #33
+2024/11/02-15:55:51.084 20ac Level-0 table #38: started
+2024/11/02-15:55:51.088 20ac Level-0 table #38: 258078 bytes OK
+2024/11/02-15:55:51.090 20ac Delete type=0 #35
+2024/11/02-15:55:51.090 20ac Compacting 4@0 + 1@1 files
+2024/11/02-15:55:51.095 20ac Generated table #39@0: 159 keys, 270658 bytes
+2024/11/02-15:55:51.095 20ac Compacted 4@0 + 1@1 files => 270658 bytes
+2024/11/02-15:55:51.095 20ac compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/02-15:55:51.095 20ac Delete type=2 #29
+2024/11/02-15:55:51.096 20ac Delete type=2 #32
+2024/11/02-15:55:51.096 20ac Delete type=2 #34
+2024/11/02-15:55:51.096 20ac Delete type=2 #36
+2024/11/02-15:55:51.096 20ac Delete type=2 #38
+2024/11/02-15:57:11.957 20ac Level-0 table #41: started
+2024/11/02-15:57:11.961 20ac Level-0 table #41: 253609 bytes OK
+2024/11/02-15:57:11.963 20ac Delete type=0 #37

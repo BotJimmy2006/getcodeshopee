@@ -1,0 +1,6 @@
+2024/11/02-15:59:45.053 2048 Reusing MANIFEST C:\Code\Code Shopee\Proflie\Profile 1\Local Storage\leveldb/MANIFEST-000001
+2024/11/02-15:59:45.071 2048 Recovering log #40
+2024/11/02-15:59:45.072 2048 Reusing old log C:\Code\Code Shopee\Proflie\Profile 1\Local Storage\leveldb/000040.log 
+2024/11/02-16:01:45.580 2048 Level-0 table #44: started
+2024/11/02-16:01:45.584 2048 Level-0 table #44: 293831 bytes OK
+2024/11/02-16:01:45.586 2048 Delete type=0 #40
